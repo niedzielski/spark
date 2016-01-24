@@ -1,6 +1,8 @@
 # spark
 ### sparklines for your shell
 
+[![Join the chat at https://gitter.im/niedzielski/spark](https://badges.gitter.im/niedzielski/spark.svg)](https://gitter.im/niedzielski/spark?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 See? Here's a graph of your productivity gains after using spark: ▁▂▃▅▇
 
 ## install
